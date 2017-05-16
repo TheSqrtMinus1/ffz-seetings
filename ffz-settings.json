@@ -1,0 +1,80 @@
+{
+    "version": 1,
+    "script_version": "3.5.482",
+    "aliases": {
+        "getawhale": "MIKEYYYYYYYYY",
+        "pohve": "lavender",
+        "ayakokawasumi": "nebblenogger"
+    },
+    "settings": {
+        "advanced_settings": true,
+        "favorite_settings": [
+            "hosted_channels",
+            "parse_emoji"
+        ],
+        "fix_color": 6,
+        "transparent_badges": 6,
+        "twenty_four_timestamps": 1,
+        "timestamp_seconds": true,
+        "clickable_mentions": true,
+        "bits_pinned": 0,
+        "bits_redesign": true,
+        "chatter_count": true,
+        "hosted_channels": true,
+        "stream_uptime": 2,
+        "channel_bar_bottom": true,
+        "channel_bar_collapse": true,
+        "channel_title_top": 0,
+        "player_stats": 10,
+        "portrait_mode": 1,
+        "flip_dashboard": true,
+        "minimize_navigation": true,
+        "automod_inline": false,
+        "parse_emoticons": true,
+        "parse_emoji": 1,
+        "scrollback_length": 200,
+        "banned_words": [
+            ".*⧸⎠.*"
+        ],
+        "keywords": [
+            "sqrt",
+            "squart"
+        ],
+        "emote_image_hover": true,
+        "chat_rows": 3,
+        "chat_separators": 0,
+        "chat_padding": true,
+        "chat_delay": 0,
+        "remove_filtered": 1,
+        "prevent_clear": true,
+        "group_tabs": 3,
+        "pinned_rooms": [
+            "thesqrtminus1",
+            "getawhale"
+        ],
+        "minimize_conversations": true,
+        "highlight_messages_with_mod_card": true,
+        "chat_hover_pause": 1,
+        "timeout_notices": 2,
+        "mod_card_history": 2,
+        "input_complete_name_require_at": true,
+        "directory_logos": true,
+        "sidebar_hide_prime": 2,
+        "sidebar_hide_promoted_games": true,
+        "sidebar_hide_recommended_friends": false,
+        "sidebar_hide_more_at_twitch": true,
+        "top_nav_color": "#191919",
+        "show_commerce": 1,
+        "twitch_chat_dark": false,
+        "dark_twitch": true,
+        "dark_no_blue": true,
+        "hide_recent_past_broadcast": true,
+        "replace_twitch_menu": false,
+        "global_emotes_in_menu": true,
+        "emote_menu_collapsed": [
+            "twitch-0",
+            "ffz-3"
+        ],
+        "bttv_gif_emotes": 2
+    }
+}
